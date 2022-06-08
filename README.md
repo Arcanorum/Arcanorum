@@ -1,8 +1,8 @@
 ### Hi there 🧙
 
 #### Tech stack buzzwords
-- **Frontend:** JavaScript/TypeScript, HTML, CSS/SASS/Tailwind, Phaser, PixiJS, AngularJS, Angular, React, NextJS, Bootstrap
-- **Backend:** JavaScript/TypeScript, microservices, NodeJS, MongoDB, WebSockets, Docker, Express, VPS hosting, GraphQL, TLS/SSL, SQL
+- **Frontend:** JavaScript, TypeScript, HTML, CSS, SASS, Tailwind, Phaser, PixiJS, AngularJS, Angular, React, NextJS, Bootstrap
+- **Backend:** JavaScript, TypeScript, microservices, NodeJS, MongoDB, WebSockets, Docker, Express, VPS hosting, GraphQL, TLS/SSL, SQL
 - **Other:** Git, E2E & unit testing, various advertisement & payment APIs (Xsolla, Stripe, banner ads, pre-roll video ads), technical documentation, design wireframing, writing new feature stories & bug reports
 
 #### About me
