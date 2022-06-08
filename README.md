@@ -12,7 +12,7 @@
 
 ###
 - 🏗️ Current project: Rogueworld https://github.com/Arcanorum/rogueworld
-- 📑 I’m currently learning: OAuth2, AWS
+- 📑 Learning: OAuth2, AWS
 - 💽 Primary OS: Ubuntu
 - 💬 Ask me about: MMOs
 - 🕸️ Website: https://waywardworlds.com/
