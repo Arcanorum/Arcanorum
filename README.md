@@ -13,10 +13,8 @@
 #### Trivia
 - 🏗️ Current project: Rogueworld https://github.com/Arcanorum/rogueworld
 - 🏚️ Previous project: [Dungeonz.io](https://dungeonz.rogueworld.io)
-- 📑 Learning: OAuth2, AWS
 - 💽 Primary OS: Ubuntu
 - 💬 Ask me about: MMOs
-- 🕸️ Website: https://waywardworlds.com/
 - 📫 How to reach me:
   - Discord: Arcan#8543
   - Reddit: u/arcanmakes
