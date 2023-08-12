@@ -11,10 +11,11 @@
 - **Other:** Git, E2E & unit testing, various advertisement & payment APIs (Xsolla, Stripe, banner ads, pre-roll video ads), technical documentation, design wireframing, writing feature stories & bug reports
 
 #### Trivia
-- 🏗️ Current project: [Defimons](https://beta.defimons.com/)
+- 🏗️ Current project: [Defimons](https://defimons.com/)
 - 🏚️ Previous project: [Dungeonz.io](https://dungeonz.arcanmakes.xyz)
 - 💽 Primary OS: Ubuntu
 - 💬 Ask me about: MMOs
 - 📫 How to reach me:
+  - https://arcanmakes.xyz
   - Discord: arcan.makes
   - Reddit: u/arcanmakes
